@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/bird_flocking.dir/src/example1.cpp.o CMakeFiles/bird_flocking.dir/src/InitShader.cpp.o  -o bird_flocking -lGL -lGLU -lglut -lGLEW 

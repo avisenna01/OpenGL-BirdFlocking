@@ -1,0 +1,3 @@
+/home/ekong/tubes/grafkom/flocking/CMakeFiles/rebuild_cache.dir
+/home/ekong/tubes/grafkom/flocking/CMakeFiles/bird_flocking.dir
+/home/ekong/tubes/grafkom/flocking/CMakeFiles/edit_cache.dir
